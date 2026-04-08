@@ -1,2 +1,2 @@
 # lab
-trying to reverse engineer my brain. 
+trying to reverse engineer cognition
